@@ -16,8 +16,8 @@ class Main extends Component {
     ]
     return (
       <main>
-        {titles.map(string => (
-          <Article title={string} />
+        {titles.map(titleString => (
+          <Article title={titleString} />
         ))}
       </main>
     )
