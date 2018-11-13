@@ -12,7 +12,7 @@ class Main extends Component {
       'Feed Me',
       'Bacon Ipsum is Cool',
       'This is a Test',
-      'React is Awesome'
+      'React is Pretty Awesome'
     ]
     return (
       <main>
