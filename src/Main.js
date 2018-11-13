@@ -19,16 +19,6 @@ class Main extends Component {
         {titles.map(string => (
           <Article title={string} />
         ))}
-
-        <Article />
-        <Article />
-        <Article />
-        <Article />
-        <Article />
-        <Article />
-        <Article />
-        <Article />
-        <Article />
       </main>
     )
   }
